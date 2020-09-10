@@ -1,0 +1,23 @@
+
+header {
+    margin-bottom: 100px;
+}
+
+.left {
+    float: left;
+    margin-left: 20px;
+}
+
+.right {
+    float: right;
+    margin-right: 20px;
+    padding: 10px;
+}
+
+.centred {
+    float: middle;
+}
+
+.text-centre {
+    text-align: center;
+}
